@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>253764758317-ekhrrk4b85kscn5ssu9hg7icu7dkhuhe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.253764758317-ekhrrk4b85kscn5ssu9hg7icu7dkhuhe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-DjJW-Hy7Zsq92R_5rethenJtnJGWfS8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>253764758317</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.TwoOui</string>
+	<key>PROJECT_ID</key>
+	<string>new-2oui</string>
+	<key>STORAGE_BUCKET</key>
+	<string>new-2oui.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:253764758317:ios:1204b889a20a9359</string>
+	<key>DATABASE_URL</key>
+	<string>https://new-2oui.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,5 @@
+<resources>
+<string name="app_name">2Oui</string>
+   <string name="facebook_app_id">354058551887497</string>
+<string name="fb_login_protocol_scheme">fb354058551887497</string>
+</resources>

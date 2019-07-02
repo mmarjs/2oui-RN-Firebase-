@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253764758317",
+    "firebase_url": "https://new-2oui.firebaseio.com",
+    "project_id": "new-2oui",
+    "storage_bucket": "new-2oui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253764758317:android:40c82e5b472f20aa",
+        "android_client_info": {
+          "package_name": "com.twooui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253764758317-moti1f7oidgt29dccho7dtudjd0lt4d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0CxcJSL7xJPudllKEh45sK_KxmaeLGAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253764758317-moti1f7oidgt29dccho7dtudjd0lt4d3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

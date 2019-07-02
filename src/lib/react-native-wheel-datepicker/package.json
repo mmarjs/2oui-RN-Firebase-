@@ -1,0 +1,76 @@
+{
+  "_from": "react-native-wheel-datepicker",
+  "_id": "react-native-wheel-datepicker@2.2.3",
+  "_inBundle": false,
+  "_integrity": "sha512-tnZJZbqdyaRFXBXuHFrijtcr4gxOPbUdtvM3XfceHvVGSKQVoBuaDYRFVe4qTdrR4+6c/OOgUFfRu3nYFSHReQ==",
+  "_location": "/react-native-wheel-datepicker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-wheel-datepicker",
+    "name": "react-native-wheel-datepicker",
+    "escapedName": "react-native-wheel-datepicker",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-wheel-datepicker/-/react-native-wheel-datepicker-2.2.3.tgz",
+  "_shasum": "2a93f25819b9478033229f0e715c56de92b78fba",
+  "_spec": "react-native-wheel-datepicker",
+  "_where": "/Users/jacmacos2/Desktop/Nishit/MWM/MWM",
+  "author": {
+    "name": "Alexander Avakov",
+    "email": "yaavakov@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/pinguinjkeke/react-native-wheel-datepicker/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "moment": "^2.19.1"
+  },
+  "deprecated": false,
+  "description": "React native cross platform iOS-style picker and datepicker.",
+  "devDependencies": {
+    "babel-eslint": "^8.0.0",
+    "eslint": "^4.7.2",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-react-native": "^3.1.0"
+  },
+  "homepage": "https://github.com/pinguinjkeke/react-native-wheel-datepicker#readme",
+  "keywords": [
+    "react-native",
+    "datepicker",
+    "picker",
+    "wheel"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-wheel-datepicker",
+  "peerDependencies": {
+    "moment": ">=2.0.0",
+    "prop-types": "*",
+    "react-native": ">=0.45.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinguinjkeke/react-native-wheel-datepicker.git"
+  },
+  "rnpm": {
+    "android": {
+      "packageInstance": "new ReactNativeWheelPickerPackage()"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.2.3"
+}

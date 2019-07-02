@@ -1,0 +1,60 @@
+{
+  "_from": "react-native-swipe-up-down",
+  "_id": "react-native-swipe-up-down@1.0.7",
+  "_inBundle": false,
+  "_integrity": "sha512-8j3mo+ukZBLRfQNz5N/TXLG7hTKTT8fg/2HkWWJ9umRzPz2kDthxzIkntp9QRPVh7h/sRymkhZdtLY3axdO2Zw==",
+  "_location": "/react-native-swipe-up-down",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-swipe-up-down",
+    "name": "react-native-swipe-up-down",
+    "escapedName": "react-native-swipe-up-down",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-swipe-up-down/-/react-native-swipe-up-down-1.0.7.tgz",
+  "_shasum": "083714875b5db1c81d589a09eb8c32a9ffae30a4",
+  "_spec": "react-native-swipe-up-down",
+  "_where": "/Users/mac/Desktop/2OUI/2oui",
+  "author": {
+    "name": "Duong Minh Chien",
+    "email": "minhchienwikipedia@gmail.com",
+    "url": "https://github.com/minhchienwikipedia"
+  },
+  "bugs": {
+    "url": "https://github.com/agiletechvn/react-native-swipe-up-down/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "Swipe Up Down component",
+  "homepage": "https://github.com/agiletechvn/react-native-swipe-up-down#readme",
+  "keywords": [
+    "react-native",
+    "minhchienwikipedia",
+    "agiletechvn",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-swipe-up-down",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agiletechvn/react-native-swipe-up-down.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.7"
+}

@@ -1,0 +1,52 @@
+{
+  "name": "TwoOui",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "postinstall": "./node_modules/react-native-maps/enable-google-maps REPLACE_ME_RELATIVE_PATH_TO_GOOGLE_MAPS_INSTALL"
+  },
+  "dependencies": {
+    "@ptomasroos/react-native-multi-slider": "^1.0.0",
+    "firebase": "^5.10.1",
+    "moment": "^2.24.0",
+    "native-base": "^2.10.0",
+    "react": "16.6.3",
+    "react-native": "0.58.4",
+    "react-native-camera": "^2.7.0",
+    "react-native-country-code-list": "^1.1.2",
+    "react-native-crypto-js": "^1.0.0",
+    "react-native-elements": "^1.1.0",
+    "react-native-fbsdk": "^0.8.0",
+    "react-native-firebase": "^5.3.1",
+    "react-native-google-places": "^3.0.1",
+    "react-native-google-places-autocomplete": "^1.3.9",
+    "react-native-i18n": "^2.0.15",
+    "react-native-image-crop-picker": "^0.24.0",
+    "react-native-linear-gradient": "^2.5.4",
+    "react-native-maps": "^0.24.2",
+    "react-native-responsive-fontsize": "^0.1.8",
+    "react-native-router-flux": "^4.0.6",
+    "react-native-swiper": "^1.5.14",
+    "react-native-video": "^4.4.1",
+    "react-native-wheel-datepicker": "^2.2.3",
+    "rn-sliding-up-panel": "^2.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.4.3",
+    "@babel/runtime": "7.4.3",
+    "babel-jest": "24.7.1",
+    "jest": "24.7.1",
+    "metro-react-native-babel-preset": "0.53.1",
+    "react-test-renderer": "16.8.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./src/assets/fonts/"
+    ]
+  }
+}
