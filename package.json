@@ -10,7 +10,7 @@
   "dependencies": {
     "@ptomasroos/react-native-multi-slider": "^1.0.0",
     "firebase": "^5.10.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "native-base": "^2.10.0",
     "react": "16.6.3",
     "react-native": "0.58.4",
